@@ -11,3 +11,12 @@
 ### Table of Content
 Data Entry
 Tracking Transaction
+
+### DAta Cleaning and Preparations
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
+
+### Exploratory Data Analysis
+- What is the overall sales trend
+- which product are top sellers
