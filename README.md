@@ -14,7 +14,7 @@
 Data Entry
 Tracking Transaction
 
-### DAta Cleaning and Preparations
+### Data Cleaning and Preparations
 ---
 1. Data loading and Inspection
 2. Handling missing variables
