@@ -2,25 +2,25 @@
 
 ### Tool Used
 ---
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-   1. For Data Entry
-      i. Best practices
-      ii. Data import methods (e.g., CSV, SQL)
-      iii. Data manipulation (e.g., filtering, sorting)
-   2. For Data Formatting
-      i. Number formatting
-      ii. Text formatting
-      iii. Chart creation
-   3. Data Validation
-      i. Types of data validation (e.g., numeric, date, dropdown)
-      ii. creating and managing validation rules
-      iii. Error handling and messaging
-   4. Case Study
-      i. Apply data entry, formatting, and validation techniques to a real-world scenario
-   5. Conclusion
-   6. References
-- SQL - Stuctured Query Language for Quering of Data
-- GitHub for Portfolio Building
+## 1. Microsoft Excel [Download Here](https://www.microsoft.com)
+  # i.  For Data Entry
+      - Best practices
+      - Data import methods (e.g., CSV, SQL)
+      - Data manipulation (e.g., filtering, sorting)
+  # ii. For Data Formatting
+      - Number formatting
+      - Text formatting
+      - Chart creation
+  # iii. Data Validation
+      - Types of data validation (e.g., numeric, date, dropdown)
+      - creating and managing validation rules
+      - Error handling and messaging
+  # iv. Case Study
+      - Apply data entry, formatting, and validation techniques to a real-world scenario
+   v. Conclusion
+   vi. References
+## 2. SQL - Stuctured Query Language for Quering of Data
+## 3. GitHub for Portfolio Building
 
 ### Table of Content
 ---
