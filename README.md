@@ -14,17 +14,20 @@
 ### Project Overview
 The HR Data Analysis Tracker aims to analyze employee data to identify trends, insights, and areas for improvement in employee retention and satisfaction.
 
+---
 ### Objectives
 
 - Analyze employee attrition rates
 - Identify factors influencing attrition
 - Provide data-driven recommendations for HR strategies
 
+---
 ### Methodology
 
 - Data collection: Employee dataset (1470 entries)
 - Data analysis: Power BI
 - Visualization: Dashboards and reports
+---
 
 ### Data Analysis
 
@@ -34,6 +37,7 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 - Attrition by Department: R&D (133), Sales (92), HR (12)
 - Attrition by Gender: Male (150, 63.29%), Female (87, 36.71%)
 - Attrition by Age and Gender: Under 25 (38), 25-34 (102), 35-44 (51), 45-54 (25), Over 55 (11)
+--'
 
 ### Data Visualization
 
@@ -47,6 +51,7 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 3. Male employees have a higher attrition rate.
 4. Employees under 25 have the lowest attrition rate.
 5. Life Sciences employees have the highest monthly income.
+---
 
 ### Recommendations
 
@@ -54,6 +59,7 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 2. Enhance training and development programs for R&D department.
 3. Promote diversity and inclusion initiatives.
 4. Offer flexible work arrangements for employees under 25.
+--- 
 
 ### Conclusion
 
