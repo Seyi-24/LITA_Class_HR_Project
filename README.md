@@ -44,6 +44,7 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 ### Data Visualization
 
 
+---
 ### Findings and Insights
 
 *Key Findings*
