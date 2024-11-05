@@ -37,7 +37,7 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 - Attrition by Department: R&D (133), Sales (92), HR (12)
 - Attrition by Gender: Male (150, 63.29%), Female (87, 36.71%)
 - Attrition by Age and Gender: Under 25 (38), 25-34 (102), 35-44 (51), 45-54 (25), Over 55 (11)
---'
+---
 
 ### Data Visualization
 
