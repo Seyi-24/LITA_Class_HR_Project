@@ -11,6 +11,8 @@
 - Findings and Insights [Findings and Insights](#findings-and-insights)
 - Recommendations [Recommendations](#recommendations)
 - Conclusion [Conclution](#conclusion)
+---
+
 ### Project Overview
 The HR Data Analysis Tracker aims to analyze employee data to identify trends, insights, and areas for improvement in employee retention and satisfaction.
 
