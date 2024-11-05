@@ -10,7 +10,7 @@
 - Data Visualization [Data Visualization](#data-visualization)
 - Findings and Insights [Findings and Insights](#findings-and-insights)
 - Recommendations [Recommendations](#recommendations)
-- Conclusion [Conclution](#conclusion)
+- Conclusion [Conclusion](#conclusion)
 ---
 
 ### Project Overview
