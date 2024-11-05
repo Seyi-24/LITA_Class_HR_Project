@@ -7,7 +7,10 @@
 - Objectives [Objectives](#objectives)
 - Methodology[Methodology](#methodology)
 - Data Analysis [Data Analysis](#data-analysis)
-
+- Data Visualization [Data Visualization](#data-visualization)
+- Findings and Insights [Findings and Insights](#findings-and-insights)
+- Recommendations [Recommendations](#recommendations)
+- Conclusion [Conclution](#conclusion)
 ### Project Overview
 The HR Data Analysis Tracker aims to analyze employee data to identify trends, insights, and areas for improvement in employee retention and satisfaction.
 
@@ -25,14 +28,6 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 
 ### Data Analysis
 
-*Dataset Description*
-
-- Employee data: 1470 entries
-- Attributes: Educational Field, Age, Department, Gender, Monthly Income, Job Satisfaction Rating
-
-*Data Visualization
-
-
 - Attrition Rate: 16%
 - Average Age: 37
 - Attrition by Educational Field: Life Sciences (89), Human Resources (7)
@@ -40,10 +35,10 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 - Attrition by Gender: Male (150, 63.29%), Female (87, 36.71%)
 - Attrition by Age and Gender: Under 25 (38), 25-34 (102), 35-44 (51), 45-54 (25), Over 55 (11)
 
-*Data Visualization*
+### Data Visualization
 
 
-*Findings and Insights*
+### Findings and Insights
 
 *Key Findings*
 
@@ -53,14 +48,14 @@ The HR Data Analysis Tracker aims to analyze employee data to identify trends, i
 4. Employees under 25 have the lowest attrition rate.
 5. Life Sciences employees have the highest monthly income.
 
-*Recommendations*
+### Recommendations
 
 1. Implement targeted retention strategies for Life Sciences employees.
 2. Enhance training and development programs for R&D department.
 3. Promote diversity and inclusion initiatives.
 4. Offer flexible work arrangements for employees under 25.
 
-*Conclusion*
+### Conclusion
 
 The HR Data Analysis Tracker provides valuable insights into employee attrition and satisfaction. By implementing data-driven strategies, HR can improve employee retention, satisfaction, and overall organizational performance.
 
